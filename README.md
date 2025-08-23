@@ -28,7 +28,7 @@
 
 ## 📫 Contact Me
 - ✉️ Email: [samueldavidmolina2007@gmail.com]  
-- 💼 LinkedIn: [in/samuel-david-molina-gomez-72499b33b]  
-- 🌐 Portfolio: [your-portfolio-or-github-pages-link]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/samuel-david-molina-gomez-72499b33b/]  
+- 🌐 Portfolio: [coming soon]  
 
 ---
