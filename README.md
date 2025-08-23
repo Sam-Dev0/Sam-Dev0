@@ -7,9 +7,11 @@
 
 Develop desktop applications with C# and SQL Server
 
-Work with Java and JavaScript to strengthen fullstack knowledge
+Work with Java and with spring-boot to strengthen fullstack knowledge
 
 Learn continuously to become a Backend and movil aplication Developer
+
+Technologies
 
 📫 Contact Me
 
