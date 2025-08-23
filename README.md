@@ -1,20 +1,34 @@
-👋 Hi, I'm Samuel
+# 👋 Hi, I'm Samuel
 
-💻 I'm a Software Development student passionate about building efficient and scalable applications.
-⚙️ Interested in backend development and application development, always looking to improve my skills and take on new challenges.
+💻 I'm a **Software Development student** passionate about creating efficient and scalable solutions.  
+⚙️ Interested in **backend development** and **application development**, while working to become a **Fullstack Developer**.  
 
-🌟 What I do
+---
 
-Develop desktop applications with C# and SQL Server
+## 🛠️ Technologies I work with
+- **Languages:** C#, Java, JavaScript, Python, SQL  
+- **Frameworks & Tools:** .NET, Visual Studio, Eclipse, Android studio, Kotlin, Git
+- **Databases:** SQL server, MySQL, Xampp
+- **Other skills:** Object-Oriented Programming, Database Design, Software Architecture, MVC, movil aplications
 
-Work with Java and with spring-boot to strengthen fullstack knowledge
+---
 
-Learn continuously to become a Backend and movil aplication Developer
+## 🚀 Goals
+- Keep improving as a **Backend Developer** and **Android aplications Developer**
+- Contribute to impactful real-world projects  
+- Build a strong portfolio with both academic and personal projects  
+- Study abroad to boost my career and achieve my dream of becoming a **Tech CTO**  
 
-Technologies
+---
 
-📫 Contact Me
+## 📂 Featured Projects
+- **Academic & Personal Projects:** Focused on logic, clean design, and backend implementation.  
 
-✉️ Email: [samueldavidmolina2007@gmail.com]
+---
 
-🌐 Portfolio: [coming soon]
+## 📫 Contact Me
+- ✉️ Email: [samueldavidmolina2007@gmail.com]  
+- 💼 LinkedIn: [your-linkedin-here]  
+- 🌐 Portfolio: [your-portfolio-or-github-pages-link]  
+
+---
