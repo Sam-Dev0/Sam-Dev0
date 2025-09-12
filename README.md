@@ -9,7 +9,7 @@
 - **Languages:** C#, Java, JavaScript, Python, SQL  
 - **Frameworks & Tools:** .NET, Visual Studio, Eclipse, Android studio, Kotlin, Git
 - **Databases:** SQL server, MySQL, Xampp
-- **Other skills:** Object-Oriented Programming, Database Design, Software Architecture, MVC, movil aplications
+- **Other skills:** Object-Oriented Programming, Database Design, Software Architecture, MVC, Movil Aplications
 
 ---
 
