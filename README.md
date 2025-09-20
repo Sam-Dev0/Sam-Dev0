@@ -7,7 +7,7 @@
 
 ## 🛠️ Technologies I work with
 - **Languages:** C#, Java, JavaScript, Python, SQL  
-- **Frameworks & Tools:** .NET, Visual Studio, Eclipse, Android studio, Kotlin, Git
+- **Frameworks & Tools:** .NET, Visual Studio, Eclipse, Android studio, Kotlin, React, Spring Boot, Git
 - **Databases:** SQL server, MySQL, Xampp
 - **Other skills:** Object-Oriented Programming, Database Design, Software Architecture, MVC, Movil Aplications
 
