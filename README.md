@@ -25,6 +25,7 @@
 - **Academic & Personal Projects:** Focused on logic, clean design, and backend implementation.  
 
 ---
+https://github-readme-stats.vercel.app/api?Sam-Dev0=anuraghazra
 
 ## 📫 Contact Me
 - ✉️ Email: [samueldavidmolina2007@gmail.com]  
