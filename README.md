@@ -6,15 +6,15 @@
 ---
 
 ## 🛠️ Technologies I work with
-- **Languages:** C#, Java, JavaScript, Python, SQL  
-- **Frameworks & Tools:** .NET, Visual Studio, Eclipse, Android studio, Kotlin, React, Spring Boot, Git
+- **Languages:**Java, Python, javaScript, HTML, CSS
+- **Frameworks & Tools:** Visual Studio, Kotlin, React, Spring Boot, Git
 - **Databases:** SQL server, MySQL, Xampp
-- **Other skills:** Object-Oriented Programming, Database Design, Software Architecture, MVC, Movil Aplications
+- **Other skills:** Object-Oriented Programming, Database Design, Software Architecture, MVC
 
 ---
 
 ## 🚀 Goals
-- Keep improving as a **Backend Developer** and **Android aplications Developer**
+- Keep improving as a **Backend Developer**
 - Contribute to impactful real-world projects  
 - Build a strong portfolio with both academic and personal projects  
 - Study abroad to boost my career and achieve my dream of becoming a **Tech CTO**  
