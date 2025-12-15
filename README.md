@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ Technologies I work with
-- **Languages:**Java, Python, javaScript, HTML, CSS
+- **Languages:** Java, Python, javaScript, HTML, CSS
 - **Frameworks & Tools:** Visual Studio, Kotlin, React, Spring Boot, Git
 - **Databases:** SQL server, MySQL, Xampp
 - **Other skills:** Object-Oriented Programming, Database Design, Software Architecture, MVC
